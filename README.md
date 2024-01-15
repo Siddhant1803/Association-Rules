@@ -9,13 +9,13 @@
   Eg. If you buy Bred then probability of you buying Butter is high but if you buy Butter 1st then there is very low probability of you buying Bred as your next purchase depending on your 1st purchase.
   
 ### Support
-Support indicates how frequently an item or item-set appears in the dataset or transaction.
+- Support indicates how frequently an item or item-set appears in the dataset or transaction.
 
 ### Confidence
-Confidence indicates how frequently a rule is found to be true.
+- Confidence indicates how frequently a rule is found to be true.
 
 ### Lift
-Lift (A →B) indicates the rise in probability of occurrence of B when A has already occurred. 
+- Lift (A →B) indicates the rise in probability of occurrence of B when A has already occurred. 
  
 ### For a rule, if {A} →{B} has high confidence, then it indicates that B is more likely to occur with A.
 ### For rule {A} →{B}
